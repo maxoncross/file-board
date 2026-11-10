@@ -4,8 +4,7 @@
 
 Лёгкая: установщик ~1,2 МБ, в работе ~80 МБ памяти (сделано на [Tauri](https://tauri.app), а не на Electron).
 
-<!-- Скриншот: положите картинку в docs/screenshot.png и раскомментируйте строку ниже -->
-<!-- ![FileBoard](docs/screenshot.png) -->
+![FileBoard](docs/screenshot.webp)
 
 ## Возможности
 
