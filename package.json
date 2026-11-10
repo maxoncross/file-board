@@ -2,7 +2,7 @@
   "name": "file-board",
   "private": true,
   "version": "0.1.0",
-  "description": "Доска для файлов, папок, ссылок и заметок (Windows)",
+  "description": "Все нужные папки, файлы и ссылки — на одной доске",
   "author": "maxoncross",
   "license": "MIT",
   "scripts": {
