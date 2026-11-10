@@ -1,0 +1,15 @@
+{
+  "name": "file-board",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Доска для файлов, папок, ссылок и заметок (Windows)",
+  "author": "maxoncross",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
